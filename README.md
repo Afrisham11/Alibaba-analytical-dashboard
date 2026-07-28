@@ -62,7 +62,6 @@ This dashboard helps answer key business questions:
 # 🛠 Tools & Technologies
 
 - Power BI Desktop
-- Power Query
 - DAX
 - Microsoft Excel
 
@@ -85,15 +84,6 @@ The dashboard is built using a simulated Alibaba e-commerce dataset containing:
 - Shipping Time
 
 ---
-
-# 📸 Dashboard Preview
-
-> Add your dashboard screenshot here.
-
-Example:
-
-```
-Alibaba_Dashboard.png
 ```
 
 ---
@@ -137,31 +127,10 @@ This dashboard enables executives to:
 
 ---
 
-# 📁 Repository Structure
+<img width="778" height="430" alt="Alibaba analytical dashboard" src="https://github.com/user-attachments/assets/28ab085a-e80a-43b0-bc0c-f0d619c80504" />
 
-```
-Alibaba_Executive_Command_Center/
-│
-├── Alibaba_Executive_Command_Center.pbix
-├── Alibaba_Dataset.xlsx
-├── Alibaba_Dashboard.png
-└── README.md
-```
 
----
 
-# 🔮 Future Enhancements
-
-- Executive Drill-through Pages
-- Dynamic KPI Cards
-- Forecasting Sales Trends
-- Customer Segmentation Analysis
-- Product Performance Dashboard
-- Warehouse Performance Monitoring
-- Mobile-Optimized Report
-- Automated Data Refresh
-
----
 
 # 👨‍💻 Author
 
