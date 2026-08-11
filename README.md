@@ -85,7 +85,7 @@ The dashboard is built using a simulated Alibaba e-commerce dataset containing:
 
 
 
-<img width="778" height="430" alt="Alibaba analytical dashboard" src="https://github.com/user-attachments/assets/2bd0de17-44c7-4f4c-8a74-c1537e48ef99" />
+
 
 
 ---
